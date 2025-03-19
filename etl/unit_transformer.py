@@ -1,0 +1,1 @@
+# Toma lo que resulto de transformer y saca un dato de el para exponerlo

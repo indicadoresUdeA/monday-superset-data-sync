@@ -1,5 +1,4 @@
-
-
+#funcion que estructura el query
 
 def get_query_for_board_elements(dataframe, board_id): 
 

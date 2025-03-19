@@ -8,7 +8,7 @@ HEADERS = {
 }
 
 def get_board_items(board_id):
-    query = 0 #Aqui viene el query
+    query = 0 #Aqui viene el query for column
     response = requests.post(MONDAY_API_URL, json=query, headers=HEADERS)
     data = response.json()
     return data
